@@ -1,4 +1,6 @@
 streamlit 
 gitpython
 plotly
-mysql-connector-python sqlalchemy
+mysql-connector-python 
+sqlalchemy
+
